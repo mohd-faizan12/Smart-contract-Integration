@@ -1,0 +1,17 @@
+{"level":"error","message":"500: error: Cannot destructure property 'jobTitle' of 'req.body' as it is undefined.","service":"user-service"}
+{"level":"error","message":"500: error: Cannot destructure property 'jobTitle' of 'req.body' as it is undefined.","service":"user-service"}
+{"level":"error","message":"500: error: Cannot destructure property 'jobTitle' of 'req.body' as it is undefined.","service":"user-service"}
+{"level":"error","message":"500: error: Cannot destructure property 'jobTitle' of 'req.body' as it is undefined.","service":"user-service"}
+{"level":"error","message":"500: error: Cannot destructure property 'jobTitle' of 'req.body' as it is undefined.","service":"user-service"}
+{"level":"error","message":"500: error: Cannot destructure property 'jobTitle' of 'req.body' as it is undefined.","service":"user-service"}
+{"level":"error","message":"500: error: Cannot destructure property 'jobTitle' of 'req.body' as it is undefined.","service":"user-service"}
+{"level":"error","message":"500: error: Cannot destructure property 'jobTitle' of 'req.body' as it is undefined.","service":"user-service"}
+{"level":"error","message":"500: error: Cannot read properties of undefined (reading 'length')","service":"user-service"}
+{"level":"error","message":"500: error: Cannot read properties of undefined (reading 'length')","service":"user-service"}
+{"level":"error","message":"500: error: Cannot read properties of undefined (reading 'length')","service":"user-service"}
+{"level":"error","message":"500: error: The contract code couldn't be stored, please check your gas limit.","service":"user-service"}
+{"level":"error","message":"500: error: Signer Error: Signer Error:  gasLimit is too low. given 22000, need at least 130488.","service":"user-service"}
+{"level":"error","message":"500: error: The contract code couldn't be stored, please check your gas limit.","service":"user-service"}
+{"level":"error","message":"500: error: Signer Error: Signer Error:  gasLimit is too low. given 50000, need at least 130488.","service":"user-service"}
+{"level":"error","message":"500: error: The contract code couldn't be stored, please check your gas limit.","service":"user-service"}
+{"level":"error","message":"500: error: The contract code couldn't be stored, please check your gas limit.","service":"user-service"}
